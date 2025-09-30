@@ -1,9 +1,9 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.09.2025
+## Register Number:25013772
+## Name:Frazana M
 ## Problem Title
-SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
+SIH 25010:s Smart Crop Advisory System for Small and Marginal Farmer
 ## Problem Description
 A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.
 
@@ -41,28 +41,28 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+![alt text](farm.jpg)
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Localized knowledge delivery: Farmers receive advisory in their native language, with voice support to overcome literacy barriers.
 
-## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Personalized recommendations: Soil testing data, crop history, and regional climate patterns enable precise fertilizer, irrigation, and pest management advice.
+
+Cost reduction and yield improvement: By optimizing inputs and preventing crop loss, farmers lower expenses and increase productivity.
+
+Sustainability: Reduces overuse of fertilizers and pesticides, protecting long-term soil fertility and the environment.
+
+Market empowerment: Real-time tracking of mandi (market) prices helps farmers make informed selling decisions
+
+ ## Feasibility and Viability
+The proposed multilingual, AI-powered advisory platform for Punjab’s farmers is both technically feasible and economically viable, thanks to advances in mobile technology, artificial intelligence, and natural language processing that support localized, voice-based solutions. With growing rural smartphone use and robust government support for digital agriculture, the system can be effectively deployed to deliver real-time, personalized guidance, boosting crop yields and farmer income by 20–30% while promoting sustainable practices. Its alignment with stakeholder goals—including government agencies, extension officers, NGOs, and agri-tech startups—further enhances its potential for wide adoption and lasting impact.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+The impact and benefits of a multilingual, AI-powered advisory platform for Punjab’s small and marginal farmers are substantial, including increased crop yields, reduced input costs, and improved livelihoods. The platform enables farmers to access accurate, personalized guidance in their native language, helping them make scientifically informed decisions about crop selection, pest control, and fertilizer use while reducing reliance on guesswork and third-party advice. It also promotes sustainable farming and environmental conservation by optimizing resource use and minimizing chemical overuse, enhances market access through real-time price tracking, and supports greater resilience against weather-related risks, thus empowering farmers for the long term. 
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+
+## Research and reference
+https://www.accessagriculture.org
+https://www.bighaat.com
+https://www.farmatma.in
