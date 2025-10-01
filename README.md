@@ -41,7 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-![alt text](farm.jpg)
+![alt text](<Screenshot 2025-10-01 000527.png>)
 
 
 ## Technical Approach
